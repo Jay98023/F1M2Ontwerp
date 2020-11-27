@@ -1,1 +1,1 @@
-http://31764.hosts1.ma-cloud.nl/goedelandingpage.html
+http://31764.hosts1.ma-cloud.nl
